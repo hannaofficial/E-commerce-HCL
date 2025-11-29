@@ -6,7 +6,7 @@ A fully functional e-commerce platform featuring role-based authentication, prod
 
 ## 🚀 Deployment
 
-> Hosted on: **Vercel**
+> Hosted on: ****
 
 ---
 
