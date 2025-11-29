@@ -53,6 +53,7 @@ A fully functional e-commerce platform featuring role-based authentication, prod
 - ➕ Add new products (title, price, image, description, stock etc.)
 - ✏️ Edit & manage listed products
 - 📦 Added products instantly visible to users on Home Page
+- Admin can see whatever the order the user has placed
 
 ---
 
@@ -89,6 +90,7 @@ A fully functional e-commerce platform featuring role-based authentication, prod
 | POST | `/products` *(Admin)* | Add product for selling |
 | POST | `/cart/add` | Add product to user cart |
 | GET | `/checkout/buy-now` | Buy instantly |
+| GET | `/seller` | for seller admin |
 
 ---
 
